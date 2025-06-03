@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>系统优化 on Kaede&#39;s Blog</title>
+    <link>https://akiirokaede.github.io/tags/%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96/</link>
+    <description>Recent content in 系统优化 on Kaede&#39;s Blog</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 02 Jun 2025 16:43:15 +0800</lastBuildDate>
+    <atom:link href="https://akiirokaede.github.io/tags/%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 11 中配置 PowerToys 键盘管理器，常用快捷键与 macOS 默认配置统一</title>
+      <link>https://akiirokaede.github.io/posts/windows-11-%E4%B8%AD%E9%85%8D%E7%BD%AE-powertoys-%E9%94%AE%E7%9B%98%E7%AE%A1%E7%90%86%E5%99%A8%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%B8%8E-macos-%E7%BB%9F%E4%B8%80/</link>
+      <pubDate>Mon, 02 Jun 2025 16:43:15 +0800</pubDate>
+      <guid>https://akiirokaede.github.io/posts/windows-11-%E4%B8%AD%E9%85%8D%E7%BD%AE-powertoys-%E9%94%AE%E7%9B%98%E7%AE%A1%E7%90%86%E5%99%A8%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%B8%8E-macos-%E7%BB%9F%E4%B8%80/</guid>
+      <description>&lt;p&gt;选择与 macOS 统一仅仅是因为我个人认为 Caps 是个无用的按键，并且 Shift 不应该承载过多任务。&lt;/p&gt;
+&lt;p&gt;根据二八原则，只做简单配置。&lt;/p&gt;
+&lt;p&gt;![键盘管理器](&amp;quot;/images/keyboard manager.png&amp;quot;)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
