@@ -4,10 +4,17 @@
     <title>Kaede&#39;s Blog</title>
     <link>https://akiirokaede.github.io/</link>
     <description>Recent content on Kaede&#39;s Blog</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Jun 2025 21:25:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 10:36:45 +0800</lastBuildDate>
     <atom:link href="https://akiirokaede.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UV 的简易使用笔记</title>
+      <link>https://akiirokaede.github.io/posts/uv%E7%9A%84%E7%AE%80%E6%98%93%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 11 Aug 2025 10:36:45 +0800</pubDate>
+      <guid>https://akiirokaede.github.io/posts/uv%E7%9A%84%E7%AE%80%E6%98%93%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/</guid>
+      <description>现代 Python 开发的高效工具</description>
+    </item>
     <item>
       <title>Git 的跨平台兼容设置</title>
       <link>https://akiirokaede.github.io/posts/git%E7%9A%84%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%85%BC%E5%AE%B9%E8%AE%BE%E7%BD%AE/</link>
