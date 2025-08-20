@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>跨平台 on Kaede&#39;s Blog</title>
-    <link>https://akiirokaede.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</link>
-    <description>Recent content in 跨平台 on Kaede&#39;s Blog</description>
+    <title>Git on Kaede&#39;s Blog</title>
+    <link>https://akiirokaede.github.io/tags/git/</link>
+    <description>Recent content in Git on Kaede&#39;s Blog</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 20 Aug 2025 14:03:23 +0800</lastBuildDate>
-    <atom:link href="https://akiirokaede.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akiirokaede.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>全局 Git Ignore 配置</title>
       <link>https://akiirokaede.github.io/posts/%E5%85%A8%E5%B1%80-git-ignore-%E9%85%8D%E7%BD%AE/</link>

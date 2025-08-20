@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Kaede&#39;s Blog</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 Aug 2025 17:14:24 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 14:03:23 +0800</lastBuildDate>
     <atom:link href="https://akiirokaede.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://akiirokaede.github.io/tags/git/</link>
+      <pubDate>Wed, 20 Aug 2025 14:03:23 +0800</pubDate>
+      <guid>https://akiirokaede.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>跨平台</title>
+      <link>https://akiirokaede.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Wed, 20 Aug 2025 14:03:23 +0800</pubDate>
+      <guid>https://akiirokaede.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Docker</title>
       <link>https://akiirokaede.github.io/tags/docker/</link>
@@ -48,13 +62,6 @@
       <link>https://akiirokaede.github.io/tags/python-%E5%BC%80%E5%8F%91/</link>
       <pubDate>Mon, 11 Aug 2025 10:36:45 +0800</pubDate>
       <guid>https://akiirokaede.github.io/tags/python-%E5%BC%80%E5%8F%91/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>跨平台</title>
-      <link>https://akiirokaede.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</link>
-      <pubDate>Wed, 25 Jun 2025 21:25:45 +0800</pubDate>
-      <guid>https://akiirokaede.github.io/tags/%E8%B7%A8%E5%B9%B3%E5%8F%B0/</guid>
       <description></description>
     </item>
     <item>
